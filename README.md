@@ -8,8 +8,8 @@
 
 ## Usage
 python3 main.py --setting <option>
-
-<option>:
+  
+### <option>:
   0 : Using Pretrained MCCNN cost + Cost Volume Filtering
   1 : Using Pretrained MCCNN cost + Cost Volume Filtering + Local Expansion for refining
   0 : Using MCCNN cost trained by us + Cost Volume Filtering
