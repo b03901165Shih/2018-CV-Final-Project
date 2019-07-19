@@ -45,3 +45,14 @@ Teddy:
 
 
 ##### The oringal data for this challenge is not provided due to license reasons.
+
+## References
+[1] A. Hosni, C. Rhemann, M. Bleyer, C. Rother, and M. Gelautz. Fast cost-volume filtering for visual correspondence and beyond. IEEE Trans. Pattern Anal. Mach. Intell., 35(2):504–511, 2013.
+
+[2] Zbontar, Jure, and Yann LeCun. "Stereo matching by training a convolutional neural network to compare image patches." Journal of Machine Learning Research 17.1-32 (2016): 2.
+
+[3] Taniai, Tatsunori, et al. "Continuous 3D label stereo matching using local expansion moves." IEEE transactions on pattern analysis and machine intelligence 40.11 (2018): 2725-2739.
+
+[4] Boykov, Yuri, Olga Veksler, and Ramin Zabih. "Fast approximate energy minimization via graph cuts." IEEE Transactions on pattern analysis and machine intelligence 23.11 (2001): 1222-1239.
+
+[5] MCCNN code reference: https://github.com/t-taniai/mc-cnn-chainer
