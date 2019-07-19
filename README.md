@@ -11,9 +11,9 @@
   
  \<option>:
 -  0 : Using Pretrained MCCNN cost + Cost Volume Filtering
--  1 : Using Pretrained MCCNN cost + Cost Volume Filtering + Local Expansion for refining (very slow)
+-  1 : Using Pretrained MCCNN cost + Cost Volume Filtering + Local Expansion for refining (very slow/ better performance)
 -  2 : Using MCCNN cost trained by us + Cost Volume Filtering (slow)
--  3 : Using MCCNN cost trained by us + Cost Volume Filtering + Local Expansion for refining (very slow)
+-  3 : Using MCCNN cost trained by us + Cost Volume Filtering + Local Expansion for refining (very slow/ better performance)
   
 ## Evaluate  
   python3 eval_middleBury.py
