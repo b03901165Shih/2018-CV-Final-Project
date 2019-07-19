@@ -18,18 +18,30 @@
 ## Evaluate  
   python3 eval_middleBury.py
   
-## Result (Option 0)
+## Result (option 0/option 1)
 Tsukuba:
-<p align="left"><img width="50%" height="50%" src="https://github.com/b03901165Shih/2018-CV-Final-Project/blob/master/result/tsukuba.png" /></p>
+<p align="left">
+  <img width="40%" height="40%" src="https://github.com/b03901165Shih/2018-CV-Final-Project/blob/master/result/tsukuba.png" />
+  <img width="40%" height="40%" src="https://github.com/b03901165Shih/2018-CV-Final-Project/blob/master/result_option1/tsukuba.png" />
+</p>
 
 Venus:
-<p align="left"><img width="50%" height="50%" src="https://github.com/b03901165Shih/2018-CV-Final-Project/blob/master/result/venus.png" /></p>
+<p align="left">
+  <img width="40%" height="40%" src="https://github.com/b03901165Shih/2018-CV-Final-Project/blob/master/result/venus.png" />
+  <img width="40%" height="40%" src="https://github.com/b03901165Shih/2018-CV-Final-Project/blob/master/result_option1/venus.png" />
+</p>
 
 Cones:
-<p align="left"><img width="50%" height="50%" src="https://github.com/b03901165Shih/2018-CV-Final-Project/blob/master/result/cones.png" /></p>
+<p align="left"
+><img width="40%" height="40%" src="https://github.com/b03901165Shih/2018-CV-Final-Project/blob/master/result/cones.png" />
+><img width="40%" height="40%" src="https://github.com/b03901165Shih/2018-CV-Final-Project/blob/master/result_option1/cones.png" />
+</p>
 
 Teddy:
-<p align="left"><img width="50%" height="50%" src="https://github.com/b03901165Shih/2018-CV-Final-Project/blob/master/result/teddy.png" /></p>
+<p align="left">
+  <img width="40%" height="40%" src="https://github.com/b03901165Shih/2018-CV-Final-Project/blob/master/result/teddy.png" />
+  <img width="40%" height="40%" src="https://github.com/b03901165Shih/2018-CV-Final-Project/blob/master/result_option1/teddy.png" />
+</p>
 
 
 ##### The oringal data for this challenge is not provided due to license reasons.
