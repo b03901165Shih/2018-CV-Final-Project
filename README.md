@@ -18,7 +18,7 @@
 ## Evaluate  
   python3 eval_middleBury.py
   
-## Result
+## Result (Option 0)
 Tsukuba:
 <p align="left"><img width="50%" height="50%" src="https://github.com/b03901165Shih/2018-CV-Final-Project/blob/master/result/tsukuba.png" /></p>
 
