@@ -19,6 +19,17 @@
   python3 eval_middleBury.py
   
 ## Result
-<p align="center"><img width="50%" height="50%" src="https://github.com/b03901165Shih/2018-CV-Final-Project/blob/master/result/cones.png" /></p>
+Tsukuba:
+<p align="left"><img width="50%" height="50%" src="https://github.com/b03901165Shih/2018-CV-Final-Project/blob/master/result/tsukuba.png" /></p>
+
+Venus:
+<p align="left"><img width="50%" height="50%" src="https://github.com/b03901165Shih/2018-CV-Final-Project/blob/master/result/venus.png" /></p>
+
+Cones:
+<p align="left"><img width="50%" height="50%" src="https://github.com/b03901165Shih/2018-CV-Final-Project/blob/master/result/cones.png" /></p>
+
+Teddy:
+<p align="left"><img width="50%" height="50%" src="https://github.com/b03901165Shih/2018-CV-Final-Project/blob/master/result/teddy.png" /></p>
+
 
 ##### The oringal data for this challenge is not provided due to license reasons.
